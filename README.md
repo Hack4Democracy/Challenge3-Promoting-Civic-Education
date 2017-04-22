@@ -2,6 +2,10 @@
 
 For more information about challenge 3 visit: https://hackfordemocracy.org/challenges
 
+## Slides
+
+Slides from Generation Citizen's presentation can be found [here](./Generation-Citizen-slides.pptx)
+
 ### Resources
 
 * Has Generation Citizen's curriculum, example projects, and a whole host of other things: http://generationcitizenma.weebly.com/
